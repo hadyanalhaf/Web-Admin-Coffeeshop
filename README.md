@@ -21,4 +21,4 @@ Halaman admin ini adalah halaman untuk admin dapat mengelola database dan memant
 
 
 
-## Website ini masih dalam progress pengembangan, sehingga masih akan ditambahkan beberapa fitur yang dibutuhkan.
+ *Website ini masih dalam progress pengembangan, sehingga masih akan ditambahkan beberapa fitur yang dibutuhkan.*
