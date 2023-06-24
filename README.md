@@ -2,7 +2,7 @@
 
 Halaman admin ini adalah halaman untuk admin dapat mengelola database dan memantau penjualan.
 
-## Fitur Pada Web admin ini adalah
+## Fitur Pada Web Admin
 - Menampilkan highlight/rekapan seluruh penjualan, pemasukkan, jumlah pelanggan dan jumlah produk yang dimiliki
 - Menampilkan detail tabel penjualan yang berisi ID Transaksi,	Tanggal Transaksi,	Waktu Transaksi,	ID Customer,	ID Produk,	Jumlah Barang, dan	Pemasukkan
 - Menampilkan detail tabel produk yang berisi ID Produk,	Kategori Produk,	Nama Produk,	Deskripsi Produk,	Harga Produk, dan	Foto Produk
